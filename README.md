@@ -1,4 +1,4 @@
----
+
 
 ```
 # 📦 Payment Facade With Adapters
@@ -20,6 +20,18 @@ A simple yet extensible Java-based order processing system that demonstrates the
 
 - Java 8 or higher  
 - A Java IDE (e.g., IntelliJ, Eclipse) or command-line compiler  
+
+---
+
+## 🛠️ Installation, Project Structure & Output Example
+
+Clone the repository and compile the Java files:
+
+```bash
+git clone https://github.com/yourusername/order-processing-system.git
+cd order-processing-system
+javac *.java
+
 
 ---
 
