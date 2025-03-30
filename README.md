@@ -1,5 +1,4 @@
 
-
 ```
 # 📦 Payment Facade With Adapters
 
