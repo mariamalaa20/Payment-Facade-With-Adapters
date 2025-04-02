@@ -1,4 +1,4 @@
-# 📦 E-Commerce Order Processing System
+# 📦 Adapter Facade Order System	
 
 A modular and extensible Java-based order processing system that simulates product inventory management, shipping, and payment handling via adapter patterns. This is ideal for practicing object-oriented design and basic software architecture concepts.
 
